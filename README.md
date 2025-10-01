@@ -6,7 +6,7 @@
 
 - 📫 Reach me at **karthikeyatummala@gmail.com**
 
-- 📄 [View my resume here](https://drive.google.com/file/d/13ncu6WNZWS3tL-Xq2mv2J9PJPGcNkFyv/view?usp=sharing)
+- 📄 [View my resume here](https://drive.google.com/file/d/11ngAwrP7cM39JxPHi-8S4Le3GniFgPhs/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
