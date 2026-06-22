@@ -11,7 +11,8 @@ Currently building software for robotics systems, working on communication proto
 Outside of work, you'll usually find me solving LeetCode problems, experimenting with new technologies, or breaking things just to understand how they work.
 
 * 🌍  I'm based in Bangalore, Karnataka, India
-* ✉️  You can contact me at [karthikeyatummala@gmail.com / https://www.linkedin.com/in/tummala-karthikeya-it007/](mailto:karthikeyatummala@gmail.com / https://www.linkedin.com/in/tummala-karthikeya-it007/)
+* ✉️ Email: <a href="mailto:karthikeyatummala@gmail.com">karthikeyatummala@gmail.com</a>
+* 💼 LinkedIn: <a href="https://www.linkedin.com/in/tummala-karthikeya-it007/" target="_blank">LinkedIn Profile</a>
 * 🧠  I'm currently learning System Design
 * 👥  I'm looking to collaborate on Backend Development Projects
 
@@ -22,6 +23,7 @@ Outside of work, you'll usually find me solving LeetCode problems, experimenting
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/karthikeya-tummala" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/tummala-karthikeya-it007/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
