@@ -13,7 +13,7 @@ Outside of work, you'll usually find me solving LeetCode problems, experimenting
 * 🌍  I'm based in Bangalore, Karnataka, India
 * ✉️ Email: <a href="mailto:karthikeyatummala@gmail.com">karthikeyatummala@gmail.com</a>
 * 💼 LinkedIn: <a href="https://www.linkedin.com/in/tummala-karthikeya-it007/" target="_blank">LinkedIn Profile</a>
-* 🧠  I'm currently learning System Design
+* 🧠  I'm currently learning Low Level Design (LLD)
 * 👥  I'm looking to collaborate on Backend Development Projects
 
 <p align="left">
