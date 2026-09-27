@@ -29,7 +29,3 @@ Outside of work, you'll usually find me solving LeetCode problems, experimenting
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/karthikeya-tummala"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeya-tummala&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/karthikeya-tummala/gatekeeper" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthikeya-tummala&repo=gatekeeper&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karthikeya-tummala/bookmyroom" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthikeya-tummala&repo=bookmyroom&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
